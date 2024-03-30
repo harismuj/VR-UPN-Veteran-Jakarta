@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk memberikan pengguna pengalaman interaktif dalam menje
 
 ## Cara Menggunakan
 
-1. Download File Project <a href="https://drive.google.com/file/d/1RyjfWxT00R6LsEWYVrcSimRQXvt_4jlj/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=google-drive">di Sini</a>
+1. Download File Project <a href="https://drive.google.com/file/d/1RyjfWxT00R6LsEWYVrcSimRQXvt_4jlj/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=google-drive"></a>
 2. Buka proyek menggunakan Unity.
 3. Tunggu hingga Unity selesai mengimpor semua aset.
 4. Pastikan model 3D yang dibuat menggunakan Blender telah diimpor dengan benar dan terletak di lingkungan yang tepat.
